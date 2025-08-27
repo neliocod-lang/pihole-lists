@@ -62,3 +62,13 @@ sf-tk-sg.ibyedtios.com
 in.appcenter.ms
 assets.adobedtm.com
 m.stripe.com
+adx.mossfast.com
+api.mossfast.com
+recom-acs.aliexpress.com
+ae-pic-a1.aliexpress-media.com
+cdn.exp.xiaomi.com
+play.googleapis.com
+bottom.campaign.aliexpress.com
+edge-mqtt.facebook.com
+i.instagram.com
+z-m-gateway.facebook.com
