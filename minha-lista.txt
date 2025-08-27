@@ -72,3 +72,12 @@ bottom.campaign.aliexpress.com
 edge-mqtt.facebook.com
 i.instagram.com
 z-m-gateway.facebook.com
+b-graph.facebook.com
+graph-fallback.facebook.com
+eni.bb.com.br
+clients2.google.com
+config.edge.skype.com
+us.htih.io.mi.com
+adx.mossfast.com
+api.mossfast.com
+
