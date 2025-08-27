@@ -80,4 +80,12 @@ config.edge.skype.com
 us.htih.io.mi.com
 adx.mossfast.com
 api.mossfast.com
+graph.fbpigeon.com
+ad-host-backup-america.oss-us-west-1.aliyuncs.com
+yitechnology.zendesk.com
+odc.officeapps.live.com
+substrate.office.com
+arc.msn.com
+eni.bb.com.br
+
 
