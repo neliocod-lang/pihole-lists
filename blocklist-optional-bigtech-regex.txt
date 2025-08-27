@@ -1,0 +1,10 @@
+(\.|^)googleapis\.com$
+(\.|^)whatsapp\.net$
+(\.|^)skype\.com$
+(\.|^)officeapps\.live\.com$
+(\.|^)office\.com$
+(\.|^)mi\.com$
+(\.|^)zendesk\.com$
+(\.|^)stripe\.com$
+(\.|^)appcenter\.ms$
+(\.|^)crashlytics\.com$
