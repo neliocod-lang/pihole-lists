@@ -34,3 +34,6 @@
 (\.|^)creative\.medproad\.com$
 (\.|^)global-orange-source\.alibaba\.com$
 (\.|^)afinv7tik42wcarrewqhxzvh402npgt\.lambda-url\.us-east-1\.on\.aws$
+(\.|^)rayjump\.com$
+(\.|^)ipstatp\.com$
+(\.|^)gcp-img\.static\.net$
