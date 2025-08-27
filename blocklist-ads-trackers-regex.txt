@@ -30,3 +30,7 @@
 (\.|^)alicdn\.com$
 (\.|^)taobao\.com$
 (\.|^)aliexpress-media\.com$
+(\.|^)mintegral\.com$
+(\.|^)creative\.medproad\.com$
+(\.|^)global-orange-source\.alibaba\.com$
+(\.|^)afinv7tik42wcarrewqhxzvh402npgt\.lambda-url\.us-east-1\.on\.aws$
