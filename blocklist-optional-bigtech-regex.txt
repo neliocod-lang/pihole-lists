@@ -8,3 +8,10 @@
 (\.|^)stripe\.com$
 (\.|^)appcenter\.ms$
 (\.|^)crashlytics\.com$
+(\.|^)weatherapi\.intl\.xiaomi\.com$
+(\.|^)statusapi\.micloud\.xiaomi\.net$
+(\.|^)keyapi\.micloud\.xiaomi\.net$
+(\.|^)sgp-howl\.api\.intl\.miui\.com$
+(\.|^)api\.competition\.intl\.miui\.com$
+(\.|^)guce\.oath\.com$
+(\.|^)i\.ytimg\.com$
