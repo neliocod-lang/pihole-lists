@@ -30,15 +30,3 @@
 (\.|^)alicdn\.com$
 (\.|^)taobao\.com$
 (\.|^)aliexpress-media\.com$
-global-orange-source.alibaba.com
-assets.mintegral.com
-creative.medproad.com
-weatherapi.intl.xiaomi.com
-afinv7tik42wcarrewqhxzvh402npgt.lambda-url.us-east-1.on.aws
-guce.oath.com
-sgp-howl.api.intl.miui.com
-api.competition.intl.miui.com
-statusapi.micloud.xiaomi.net
-keyapi.micloud.xiaomi.net
-ts.market.mi-img.com
-i.ytimg.com
